@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akhaqan126
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning HTML and CSS
+- 📫 How to reach me: via E-mail.
